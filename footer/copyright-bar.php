@@ -2,7 +2,7 @@
 /**
  * Template part for displaying the footer copyright details
  *
- * @package qualityroof_theme
+ * @package wp_rig
  */
 
 namespace WP_Rig\WP_Rig;
@@ -11,7 +11,7 @@ namespace WP_Rig\WP_Rig;
 
 <div class="footer-copyright-bar">
     <div class="copyright-bar-wrapper">
-        <span>Copyright Quality Roofing 2012 | Privacy Policy</span>
-        <span>Designed By: Art Unlimited LLC</span>
+        <span></span>
+        <span></span>
     </div>
 </div><!-- .footer-copyright-bar -->

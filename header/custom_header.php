@@ -2,7 +2,7 @@
 /**
  * Template part for displaying the custom header media
  *
- * @package qualityroof_theme
+ * @package wp_rig
  */
 
 namespace WP_Rig\WP_Rig;
